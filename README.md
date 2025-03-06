@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **akashjena9208@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VzPqQovKFy3xlwwbNlTzZNZPI_o2T-uN/view?usp=drivesdk](https://drive.google.com/file/d/1VzPqQovKFy3xlwwbNlTzZNZPI_o2T-uN/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VzPqQovKFy3xlwwbNlTzZNZPI_o2T-uN/view?usp=drivesdk](https://drive.google.com/file/d/1w9mIna7BvvA72tABK-RUXtpm4QPuOdHb/view?usp=sharing)
   
 
 - ⚡ Fun fact **I am a Coder**
