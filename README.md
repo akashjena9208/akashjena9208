@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Video Stream Application**
 
-- 🌱 I’m currently learning **Spring Boot, MERN**
+- 🌱 I’m currently learning **Java Full Stack Devloper,DevOps,ReactJS**
 
 - 👯 I’m looking to collaborate on [Smart contact Manager](https://github.com/akashjena9208/Smart-Contact-Manager.git)
 
 - 👨‍💻 All of my projects are available at [https://akashjena9208.github.io/Akash_Personal_Portfolio/](https://akashjena9208.github.io/Akash_Personal_Portfolio/)
 
-- 💬 Ask me about **Java & MERN**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **akashjena9208@gmail.com**
 
