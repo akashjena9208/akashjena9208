@@ -17,6 +17,9 @@
 - 📫 How to reach me **akashjena9208@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VzPqQovKFy3xlwwbNlTzZNZPI_o2T-uN/view?usp=drivesdk](https://drive.google.com/file/d/1VzPqQovKFy3xlwwbNlTzZNZPI_o2T-uN/view?usp=drivesdk)
+- 
+- <IMG SRC="https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif">
+
 
 - ⚡ Fun fact **I am a Coder**
 
@@ -38,4 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjena9208&show_icons=true&locale=en" alt="akashjena9208" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashjena9208&" alt="akashjena9208" /></p>
-<IMG SRC="https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif">
