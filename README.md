@@ -40,6 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashjena9208&show_icons=true&locale=en" alt="akashjena9208" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashjena9208&" alt="akashjena9208" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&theme=dark&exclude_days=Sun%2CMon%2CTue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&exclude_days=Sun%2CMon%2CTue)](https://git.io/streak-stats)
