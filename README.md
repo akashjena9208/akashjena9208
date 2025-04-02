@@ -1,5 +1,5 @@
 ![logo](https://github.com/akashjena9208/akashjena9208/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20.png)
-<h1 align="center">Hi 👋, I'm Akash Jena</h1>
+<h1 align="center">Hi  👋, I'm Akash Jena</h1>
 <h3 align="center">Aspiring Software Engineering Student With a Strong Background in Java  & DevOps from India</h3>
 - <IMG SRC="https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif">
 
