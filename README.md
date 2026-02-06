@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akashjena9208.github.io/Akash_Personal_Portfolio/](https://akashjena9208.github.io/Akash_Personal_Portfolio/)
 
-- 💬 Ask me about **Java & SQL**
+- 💬 Ask me about **Java & SpringBoot**
 
 - 📫 How to reach me **akashjena9208@gmail.com**
 
