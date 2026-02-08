@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Devloper,DevOps,ReactJS**
 
-- 👯 I’m looking to collaborate on [Auth Application](https://github.com/akashjena9208/authapplication.git)
+- 👯 I’m looking to collaborate on [Apna PG](https://github.com/akashjena9208/apna-pg.git)
 
 - 👨‍💻 All of my projects are available at [https://akashjena9208.github.io/Akash_Personal_Portfolio/](https://akashjena9208.github.io/Akash_Personal_Portfolio/)
 
