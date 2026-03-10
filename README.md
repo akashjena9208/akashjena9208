@@ -3,7 +3,7 @@
 <h2 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL | Docker
 
 Built production-ready backend systems with JWT Authentication, OAuth2,
-WebSocket and role-based security.
+WebSocket and role-based security .
 
 Open to Java Developer / Backend Developer / Full stack Developer roles.
 Bangalore | Immediate bJoiner</h2>
