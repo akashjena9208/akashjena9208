@@ -1,6 +1,6 @@
 ![logo](https://github.com/akashjena9208/akashjena9208/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20.png)
 <h1 align="center">Hi  👋, I'm Akash Jena</h1>
-<h2 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL | Docker
+<h2 align="center">Java Backend Developer | Spring Boot | REST APIs | SQL | Docker
 
 Built production-ready backend systems with JWT Authentication, OAuth2,
 WebSocket and role-based security .
