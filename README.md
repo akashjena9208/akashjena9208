@@ -5,7 +5,7 @@
 Built production-ready backend systems with JWT Authentication, OAuth2,
 WebSocket and role-based security .
 
-Open to Java Developer / Backend Developer / Full stack Developer roles.
+Open to Java Developer / Backend Developer / Full stack Developer roles. 
 Bangalore | Immediate bJoiner</h2>
 - <IMG SRC="https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif">
 
