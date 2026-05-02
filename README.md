@@ -1,4 +1,4 @@
-![logo](https://github.com/akashjena9208/akashjena9208/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20.png)
+![logo](https://github.com/akashjena9208/akashjena9208/blob/main/akashjena.png)
 <h1 align="center">Hi  👋, I'm Akash Jena</h1>
 <h2 align="center"> Backend Developer | Spring Boot | FastAPI |  REST APIs | SQL/NOSQL | Docker  
 
