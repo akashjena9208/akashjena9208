@@ -1,14 +1,10 @@
 <div align="center">
 
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Akash%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Python%20%7C%20Spring%20Boot%20%C2%B7%20FastAPI&descAlignY=60&descSize=18)
+
 
 ![logo](https://github.com/akashjena9208/akashjena9208/blob/main/akashjena.png)
-
-
-
-
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Akash%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Python%20%7C%20Spring%20Boot%20%C2%B7%20FastAPI&descAlignY=60&descSize=18)
 
 
 
@@ -16,7 +12,7 @@
 
 <img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<h1 align="left">Hi 👋, I'm Akash Jena</h1>
+<h1 align="left">Hi 👋, I'm Akash</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akashjena9208&label=Profile%20views&color=1f6feb&style=flat" alt="akashjena9208" />
