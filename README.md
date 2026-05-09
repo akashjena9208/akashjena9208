@@ -20,7 +20,7 @@ Passionate about building scalable backend systems and real-world backend applic
 
 - 👨‍💻 All of my projects are available at [https://akashjena9208.github.io/Akash_Personal_Portfolio/](https://akashjena9208.github.io/Akash_Personal_Portfolio/)
 
-- 💬 Ask me about **Java , Python, SQL, SpringBoot, FastApi, **
+- 💬 Ask me about ** Java , Python, SQL, SpringBoot, FastApi, **
 
 - 📫 How to reach me **akashjena9208@gmail.com**
 
