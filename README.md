@@ -1,12 +1,12 @@
 ![logo](https://github.com/akashjena9208/akashjena9208/blob/main/akashjena.png)
 <h1 align="center">Hi  👋, I'm Akash Jena</h1>
-<h2 align="center"> Backend Developer | Spring Boot | FastAPI |  REST APIs | SQL/NOSQL | Docker  
+<h3 align="center">
+Backend Developer | Spring Boot | FastAPI | REST APIs | Docker | Agentic ai
+</h3>
 
-Built production-ready backend systems with JWT Authentication, OAuth2,
-WebSocket and role-based security .
-
-Open to Java Developer / Backend Developer / Full stack Developer roles. 
-Bangalore | Immediate Joiner</h2>
+<p align="center">
+Passionate about building scalable backend systems and real-world backend applications.
+</p>
 - <IMG SRC="https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif">
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -14,13 +14,13 @@ Bangalore | Immediate Joiner</h2>
 
 - 🔭 I’m currently working on **Microservices Project Food Ordering Application** 
 
-- 🌱 I’m currently learning **Java Full Stack Devloper,DevOps,ReactJS**
-
-- 👯 I’m looking to collaborate on [Food Ordering App Microservices](https://github.com/akashjena9208/food-ordering-app-microservices.git)
+- 🌱 Exploring **Microservices, DevOps, AI Agents & Cloud Infrastructure**
+  
+- ## 🔭 Current Work
 
 - 👨‍💻 All of my projects are available at [https://akashjena9208.github.io/Akash_Personal_Portfolio/](https://akashjena9208.github.io/Akash_Personal_Portfolio/)
 
-- 💬 Ask me about **Java ,SQL & SpringBoot**
+- 💬 Ask me about **Java , Python, SQL, SpringBoot, FastApi, **
 
 - 📫 How to reach me **akashjena9208@gmail.com**
 
