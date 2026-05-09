@@ -2,6 +2,12 @@
 
 
 
+![logo](https://github.com/akashjena9208/akashjena9208/blob/main/akashjena.png)
+
+
+
+
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Akash%20Jena&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Python%20%7C%20Spring%20Boot%20%C2%B7%20FastAPI&descAlignY=60&descSize=18)
 
 
