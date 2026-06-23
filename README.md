@@ -136,9 +136,7 @@
 
 [
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&exclude_days=Sun%2CMon%2CTue&theme=github-dark-blue)
-
-](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&exclude_days=Sun%2CMon%2CTue&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
 
