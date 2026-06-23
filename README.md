@@ -35,10 +35,8 @@
 | Project | Tech Stack | Highlights |
 |---|---|---|
 | [**Apna PG**](https://github.com/akashjena9208/apna-pg) | Spring Boot, WebSocket, Docker, AWS EC2 | Multi-role RBAC, real-time chat, 80% latency reduction |
-| **Movie Booking System** | Spring Boot, Caffeine Cache, JUnit/Mockito | 35% query latency reduction, 88% test coverage |
-| **Full Stack Auth System** | Spring Boot, React 18, JWT, OAuth2 | Defends against 6 attack vectors, refresh token rotation |
-
-> 📌 Repo links for Movie Booking System and Full Stack Auth System coming soon — see [Portfolio](https://akashjena9208.github.io/Akash_Personal_Portfolio/) for live details.
+| [**Movie Booking System**](https://github.com/akashjena9208/movie-ticket-booking-api) | Spring Boot, Caffeine Cache, JUnit/Mockito | 35% query latency reduction, 88% test coverage |
+| [**Full Stack Auth System**](https://github.com/akashjena9208/authapplication) | Spring Boot, React 18, JWT, OAuth2 | Defends against 6 attack vectors, refresh token rotation |
 
 ---
 
@@ -92,6 +90,12 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
 
 <!-- Databases -->
 <a href="https://www.postgresql.org" target="_blank">
@@ -118,6 +122,9 @@
 </a>
 <a href="https://postman.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://www.sap.com/products/scm/extended-warehouse-management.html" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap ewm" width="40" height="40"/>
 </a>
 
 </p>
