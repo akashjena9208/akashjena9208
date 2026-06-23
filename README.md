@@ -23,7 +23,7 @@
 </p>
 
 - 🏢 Currently interning at **Nextcare** (HealthTech Startup, KIIT TBI) — Python & FastAPI backend
-- 🌱 Currently building with **Microservices, DevOps, AI Agents & Cloud Infrastructure**
+- 🌱 Exploring **Microservices, DevOps, AI Agents & Cloud Infrastructure**
 - 🚀 **80% latency reduction** via WebSocket · **35% query optimization** · **88% test coverage**
 
 <br/>
@@ -38,12 +38,14 @@
 | **Movie Booking System** | Spring Boot, Caffeine Cache, JUnit/Mockito | 35% query latency reduction, 88% test coverage |
 | **Full Stack Auth System** | Spring Boot, React 18, JWT, OAuth2 | Defends against 6 attack vectors, refresh token rotation |
 
+> 📌 Repo links for Movie Booking System and Full Stack Auth System coming soon — see [Portfolio](https://akashjena9208.github.io/Akash_Personal_Portfolio/) for live details.
+
 ---
 
 ## 📌 About Me
 
 - 👨‍💻 All projects: [Portfolio](https://akashjena9208.github.io/Akash_Personal_Portfolio/)
-- 💬 Ask me about **Java, Python, SQL, Spring Boot, FastAPI**
+- 🎯 Focused on backend performance tuning and real-time systems
 - 📫 Reach me at **akashjena9208@gmail.com**
 - 📄 Resume: [View here](https://drive.google.com/file/d/1enpXKACLf6yLeej_I3uDddjj_znDnAn7/view?usp=sharing)
 
@@ -134,9 +136,7 @@
 
 <br/>
 
-[
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&exclude_days=Sun%2CMon%2CTue&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
 
