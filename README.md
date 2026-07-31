@@ -22,7 +22,7 @@
   Passionate about building scalable backend systems and real-world production-grade applications.
 </p>
 
-- 🏢 Currently working as **Associate Software Engineer** at **Nextcare.life** (HealthTech Startup) — FastAPI, Next.js & PostgreSQL
+- 🏢 Currently working as **Software Engineer Trainee** at **Nextcare.life** (HealthTech Startup) — FastAPI, Next.js , PostgreSQL, Testing, SAP
 - 🌱 Exploring **Microservices, DevOps, AI Agents & Cloud Infrastructure**
 - 🚀 **80% latency reduction** via WebSocket · **35% query optimization** · **88% test coverage**
 
